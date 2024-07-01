@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student from KMUTT
 ------------------
 
-I am looking for an internship Data Analytics Careers department.
-
 * 🌍  I'm based in Bangkok
 * 🧠  I'm learning Vue.js, Spring Boots
 
