@@ -56,12 +56,12 @@ src="https://img.shields.io/twitch/status/opelish081?logo=twitchsx&style=for-the
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
   </a>
-  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" width="36" height="36" alt="Nginx" />
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="36" height="36" alt="Spring Boots" />
-  </a>
+  </a> -->
 </p>
 ### Socials
 
